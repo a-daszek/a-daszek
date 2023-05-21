@@ -46,5 +46,5 @@ I started my programming journey with Python and in the future I plan on expandi
 ## Statistics
 
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-daszek&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-daszek&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
 </div>
