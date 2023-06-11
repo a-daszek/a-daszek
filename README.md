@@ -1,6 +1,6 @@
 ## About me
 
-Hello, I'm Ania, 23 years old IT student, cat lover and music enthusiast.
+Hello, I'm Ania, 23 years old IT student, cat lover and violinist.
 
 I'm improving my knowledge and skills in building web applications.
 
