@@ -2,11 +2,11 @@
 
 Hello, I'm Ania, 23 years old IT student, cat lover and music enthusiast.
 
-I'm improving my knowledge and skills in building web applications - I plan to become a fullstack web developer.
+I'm improving my knowledge and skills in building web applications.
 
 I started my programming journey with Python and in my free time I'm expanding my current skill set in this language.
 
-## 🛠 Main Technologies
+## Main Technologies
 
 <ul>
   <li> 
@@ -31,7 +31,7 @@ I started my programming journey with Python and in my free time I'm expanding m
   </li>
 </ul>
 
-## 🔧 Technologies encountered in UNI
+## Technologies encountered in UNI
 
 <ul>
   <li>
