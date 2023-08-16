@@ -40,6 +40,8 @@ I started my programming journey with Python and in my free time I'm expanding m
     <img src="https://img.shields.io/badge/-Docker-blue"/>
     <img src="https://img.shields.io/badge/-Java-red"/>
     <img src="https://img.shields.io/badge/-Anaconda-green"/>
+    <img src="https://img.shields.io/badge/-Debian-red"/>
+    <img src="https://img.shields.io/badge/-Fedora-blue"/>
   </li>
 </ul>
 
