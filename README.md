@@ -43,6 +43,7 @@ I started my programming journey with Python and in my free time I'm expanding m
     <img src="https://img.shields.io/badge/-Debian-red"/>
     <img src="https://img.shields.io/badge/-Fedora-blue"/>
     <img src="https://img.shields.io/badge/-Taiga-blue"/>
+    <img src="https://img.shields.io/badge/-R-red"/>
   </li>
 </ul>
 
