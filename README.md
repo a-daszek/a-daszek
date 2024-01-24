@@ -12,13 +12,12 @@ I started my programming journey with Python and in my free time I'm expanding m
   <li> 
     Languages:
     <img src="https://img.shields.io/badge/-Python-blue" />
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+    <img src="https://img.shields.io/badge/-TypeScript-blue" />
   </li>
   <li>
     Front-end: 
-    <img src="https://img.shields.io/badge/-Vue.js-green" />
-    <img src="https://img.shields.io/badge/-JavaScript-yellow" />
-    <img src="https://img.shields.io/badge/-HTML5-red" />
-    <img src="https://img.shields.io/badge/-CSS3-blue" />
+    <img src="https://img.shields.io/badge/-React.js-red" />
   </li>
   <li>
     Back-end: 
@@ -26,12 +25,11 @@ I started my programming journey with Python and in my free time I'm expanding m
     <img src="https://img.shields.io/badge/-Express.js-red"/>
     <img src="https://img.shields.io/badge/-SQL-gray"/>
     <img src="https://img.shields.io/badge/-MySQL-orange"/>
-    <img src="https://img.shields.io/badge/-NoSQL-gray"/>
     <img src="https://img.shields.io/badge/-MongoDB-green"/>
   </li>
 </ul>
 
-## Technologies encountered in UNI
+## What I encountered at UNI
 
 <ul>
   <li>
