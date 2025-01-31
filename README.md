@@ -1,10 +1,12 @@
 ## About me
 
-Hello, I'm Ania, 23 years old IT student, cat lover and violinist.
-
-I'm improving my knowledge and skills in building web applications.
+Hello, I'm Ania, 24 years old computer science student with an engineering degree in this field, cat lover and violinist.
 
 I started my programming journey with Python and in my free time I'm expanding my current skill set in this language.
+
+I'm improving my knowledge and skills in building web applications and I'm also interested in computer networks and systems administration.
+
+The topic of my engineering thesis was a client application for creating and verifying digital signatures. As part of this project, I created a two-tier Public Key Infrastructure that provided domain user certificates needed to submit and verify signatures.
 
 ## Main Technologies
 
@@ -28,6 +30,22 @@ I started my programming journey with Python and in my free time I'm expanding m
     <img src="https://img.shields.io/badge/-MongoDB-green"/>
   </li>
 </ul>
+
+# Administration
+
+<ul>
+  <li> 
+    Windows:
+    <img src="https://img.shields.io/badge/-Active Directory-orange"/>
+      <ul>
+        <li> 
+          <img src="https://img.shields.io/badge/-Active Directory Domain Services-yellow"/>
+          <img src="https://img.shields.io/badge/-Active Directory Certificate Services-green"/>
+        </li>
+      </ul>
+  </li>
+</ul>
+
 
 ## What I encountered at UNI
 
