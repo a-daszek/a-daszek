@@ -35,7 +35,7 @@ The topic of my engineering thesis was a client application for creating and ver
 
 <ul>
   <li> 
-    Windows:
+    Windows Server:
     <img src="https://img.shields.io/badge/-Active Directory-orange"/>
       <ul>
         <li> 
