@@ -25,9 +25,26 @@ The topic of my engineering thesis was a client application for creating and ver
     Back-end: 
     <img src="https://img.shields.io/badge/-Node.js-green" />
     <img src="https://img.shields.io/badge/-Express.js-red"/>
+    <img src="https://img.shields.io/badge/-SQLAlchemy-blue"/>
+    <img src="https://img.shields.io/badge/-FastAPI-orange"/>
+  </li>
+  <li>
+    Databases: 
     <img src="https://img.shields.io/badge/-SQL-gray"/>
-    <img src="https://img.shields.io/badge/-MySQL-orange"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-blue"/>
     <img src="https://img.shields.io/badge/-MongoDB-green"/>
+  </li>
+    <li>
+    Developer Tools: 
+    <img src="https://img.shields.io/badge/-Postman-orange"/>
+    <img src="https://img.shields.io/badge/-Git-red"/>
+    <img src="https://img.shields.io/badge/-Github-green"/>
+    <img src="https://img.shields.io/badge/-Gitlab-orange"/>
+    <img src="https://img.shields.io/badge/-Gitkraken-blue"/>
+    <img src="https://img.shields.io/badge/-Thunder Client-green"/>
+    <img src="https://img.shields.io/badge/-Playwright-blue"/>
+    <img src="https://img.shields.io/badge/-Vitest-purple"/>
+    <img src="https://img.shields.io/badge/-DBeaver-brown"/>
   </li>
 </ul>
 
