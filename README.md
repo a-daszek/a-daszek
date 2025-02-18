@@ -64,22 +64,6 @@ The topic of my engineering thesis was a client application for creating and ver
 </ul>
 
 
-## What I encountered at UNI
-
-<ul>
-  <li>
-    <img src="https://img.shields.io/badge/-C++-yellow"/>
-    <img src="https://img.shields.io/badge/-C-orange"/>
-    <img src="https://img.shields.io/badge/-Docker-blue"/>
-    <img src="https://img.shields.io/badge/-Java-red"/>
-    <img src="https://img.shields.io/badge/-Anaconda-green"/>
-    <img src="https://img.shields.io/badge/-Debian-red"/>
-    <img src="https://img.shields.io/badge/-Fedora-blue"/>
-    <img src="https://img.shields.io/badge/-Taiga-blue"/>
-    <img src="https://img.shields.io/badge/-R-red"/>
-  </li>
-</ul>
-
 ## Statistics
 
 <div align="center"> 
